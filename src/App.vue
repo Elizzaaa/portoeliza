@@ -109,7 +109,7 @@
                     <p><i class="fa-solid fa-square-phone"></i> 08012222222</p>
                     <div class="social-icons">
                         <a href="https://www.instagram.com/elizzaharp?igsh=b29vNXR0OGEwZHJi"><i class="fa-brands fa-instagram"></i></a>
-                        <a href="https://github.com/ZackyKing"><i class="fa-brands fa-github"></i></a>
+                        <a href="https://github.com/Elizzaaa"><i class="fa-brands fa-github"></i></a>
                     </div>
                     <a href="./assets/background.png" download class="btn btn2">Download CV</a>
                 </div>
@@ -124,7 +124,7 @@
             </div>
         </div>
         <div class="copyright">
-            <p>Copyright © ElizaHarriPutri.</p>
+            <p>Copyright © ElizzaHarriPutri.</p>
         </div>
     </div>
 </template>
