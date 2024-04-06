@@ -86,7 +86,7 @@
             <h1 class="sub-title">My Work</h1>
             <div class="work-list">
                 <div class="work">
-                    <img src="./assets/work1.png">
+                    <img src="./assets/Work1.png">
                     <div class="layer">
                         <h3>COMING SOON</h3>
                         <p>I'm still working on some project, will be update soon</p>
