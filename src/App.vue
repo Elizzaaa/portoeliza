@@ -17,7 +17,9 @@
             </div>
         </div>
     </div>
-    <!-------------------------about----------------------------->
+
+
+  
     <div id="about">
         <div class="container">
             <div class="row">
@@ -75,7 +77,10 @@
             </div>
         </div>
     </div>
-    <!-------------------------Portofolio--------------------------------->
+
+
+
+  
     <div id="portfolio">
         <div class="container">
             <h1 class="sub-title">My Work</h1>
@@ -92,7 +97,9 @@
             <a href="#" class="btn">See more</a>
         </div>
     </div>
-    <!---------------------Contact------------------------------>
+
+
+  
     <div id="contact">
         <div class="container">
             <div class="row">
@@ -121,6 +128,8 @@
         </div>
     </div>
 </template>
+
+
 
 <script>
 export default {
