@@ -185,7 +185,7 @@ nav{
 
 .logo{
   display: flex;
-  width: 30vh;
+  width: 20vh;
 }
 
 nav ul li{
